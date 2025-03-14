@@ -87,7 +87,7 @@ Me chamo Rafael Kleimpaul Parente Bueno, tenho 26 anos, atualmente moro em São 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelkleimpaul&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)" 
   />
 
 </p>
