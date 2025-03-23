@@ -6,6 +6,7 @@
 PT -
 </br>
 Me chamo Rafael Kleimpaul Parente Bueno, tenho 26 anos, atualmente moro em São Paulo, capital. Concluí o ensino médio na escola Externato Elvira Ramos, juntamente com curso técnico no SENAI focado em desenvolvimento, também sou formado em Ciência da computação pela Universidade Paulista. 
+
 Sempre fui apaixonado por tecnologia e crio meus repositórios no GitHub para me motivar e compartilhar meu conhecimento decorrente às minhas experiências de trabalho e acadêmicas.
 
 🔗 Website: https://rafaelkleimpaul.com.br/
