@@ -5,7 +5,7 @@
 
 PT -
 </br>
-Me chamo Rafael Kleimpaul Parente Bueno, tenho 26 anos, atualmente moro em São Paulo, capital. Concluí o ensino médio na escola Externato Elvira Ramos, juntamente com curso técnico no SENAI focado em desenvolvimento, também sou formado em Ciência da computação pela Universidade Paulista. 
+Me chamo Rafael Kleimpaul Parente Bueno, tenho 26 anos, atualmente moro em São Paulo, capital. Concluí o ensino médio na escola Externato Elvira Ramos, juntamente com curso técnico no SENAI focado em desenvolvimento de software, também sou formado em Ciência da computação pela Universidade Paulista. 
 
 Sempre fui apaixonado por tecnologia e crio meus repositórios no GitHub para me motivar e compartilhar meu conhecimento decorrente às minhas experiências de trabalho e acadêmicas.
 
@@ -16,7 +16,7 @@ Sempre fui apaixonado por tecnologia e crio meus repositórios no GitHub para me
 
 EN -
 </br>
-My name is Rafael Kleimpaul Parente Bueno, I am 26 years old, and I currently live in São Paulo, the capital. I completed high school at Externato Elvira Ramos, along with a technical course at SENAI focused on development. I also hold a degree in Computer Science from Universidade Paulista.
+My name is Rafael Kleimpaul Parente Bueno, I am 26 years old, and I currently live in São Paulo, the capital. I completed high school at Externato Elvira Ramos, along with a technical course at SENAI focused on software development. I also hold a degree in Computer Science from Universidade Paulista.
 
 I have always been passionate about technology, and I create my repositories on GitHub to stay motivated and share my knowledge from my work and academic experiences.
 
