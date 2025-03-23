@@ -20,9 +20,8 @@ I have always been passionate about technology, and I create my repositories on 
 
 🔗 Website: https://rafaelkleimpaul.com.br/
 
-Currently working as an RPA Developer
-
-Studying Python with a focus on AI, Data Analysis, and Automation
+- Currently working as an RPA Developer
+- Studying Python with a focus on AI, Data Analysis, and Automation
 
 <p align="left"> 
     <a href="https://github.com/rafaelkleimpaul">
