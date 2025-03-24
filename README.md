@@ -43,7 +43,7 @@ I have always been passionate about technology, and I create my repositories on 
         <img 
             alt="Linkedind" 
             title="Linkedin" 
-            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
+            src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" alt="LinkedIn Badge"
         />
     </a>
 </p>
