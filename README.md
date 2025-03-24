@@ -30,7 +30,7 @@ I have always been passionate about technology, and I create my repositories on 
         <img 
             alt="Total de progresso" 
             title="Total de Progresso GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rafaelkleimpaul?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://github.com/rafaelkleimpaul?tab=followers">
