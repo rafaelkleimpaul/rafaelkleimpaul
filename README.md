@@ -40,6 +40,13 @@ I have always been passionate about technology, and I create my repositories on 
             src="https://custom-icon-badges.demolab.com/github/followers/rafaelkleimpaul?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.linkedin.com/in/rafael-kleimpaul/">
+        <img 
+            alt="Linkedind" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/github/followers/rafaelkleimpaul?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
