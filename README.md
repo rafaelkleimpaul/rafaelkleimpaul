@@ -18,10 +18,10 @@ My name is Rafael Kleimpaul Parente Bueno, I am 26 years old, and I currently li
 
 I have always been passionate about technology, and I create my repositories on GitHub to stay motivated and share my knowledge from my work and academic experiences.
 
-🔗 Website: https://rafaelkleimpaul.com.br/
-
 - Currently working as an RPA Developer
 - Studying Python with a focus on AI, Data Analysis, and Automation
+
+🔗 Website: https://rafaelkleimpaul.com.br/
 
 <p align="left"> 
     <a href="https://github.com/rafaelkleimpaul">
