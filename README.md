@@ -44,7 +44,7 @@ I have always been passionate about technology, and I create my repositories on 
         <img 
             alt="Linkedind" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rafaelkleimpaul?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/linkedin/color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
