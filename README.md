@@ -9,8 +9,6 @@ Me chamo Rafael Kleimpaul Parente Bueno, tenho 26 anos, atualmente moro em São 
 
 Sempre fui apaixonado por tecnologia e crio meus repositórios no GitHub para me motivar e compartilhar meu conhecimento decorrente às minhas experiências de trabalho e acadêmicas.
 
-🔗 Website: https://rafaelkleimpaul.com.br/
-
 - Atualmente trabalhando como desenvolvedor RPA
 - Estudando Python com foco em I.A, Análise de Dados e Automações
 
