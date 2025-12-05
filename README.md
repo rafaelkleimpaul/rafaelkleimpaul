@@ -106,7 +106,6 @@ I have always been passionate about technology, and I create my repositories on 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-" 
 />
 
 <br/>
