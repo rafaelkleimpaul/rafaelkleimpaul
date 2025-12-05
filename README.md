@@ -1,7 +1,8 @@
 # 👨🏼‍💻 Rafael Kleimpaul Parente Bueno
 
-**`Desenvolvedor RPA`**
+**`Desenvolvedor de Automações`**
 **`Desenvolvedor Python`**
+
 
 PT -
 </br>
@@ -11,6 +12,7 @@ Sempre fui apaixonado por tecnologia e crio meus repositórios no GitHub para me
 
 - Atualmente trabalhando como desenvolvedor RPA
 - Estudando Python com foco em I.A, Análise de Dados e Automações
+- Desenvolvedor de Automações
 
 EN -
 </br>
@@ -20,6 +22,7 @@ I have always been passionate about technology, and I create my repositories on 
 
 - Currently working as an RPA Developer
 - Studying Python with a focus on AI, Data Analysis, and Automation
+- Automation Developer
 
 🔗 Website: https://rafaelkleimpaul.com.br/
 
