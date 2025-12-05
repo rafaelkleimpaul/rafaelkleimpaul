@@ -99,6 +99,16 @@ I have always been passionate about technology, and I create my repositories on 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+" 
+/>
+
 <br/>
 <br/>
 
