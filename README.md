@@ -24,8 +24,6 @@ I have always been passionate about technology, and I create my repositories on 
 - Studying Python with a focus on AI, Data Analysis, and Automation
 - Automation Developer
 
-🔗 Website: https://rafaelkleimpaul.com.br/
-
 <p align="left"> 
     <a href="https://github.com/rafaelkleimpaul">
         <img 
