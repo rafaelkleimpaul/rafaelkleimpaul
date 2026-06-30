@@ -1,173 +1,188 @@
 <h1 align="center">Hi, I'm Rafael Bueno 👨‍💻</h1>
 
 <p align="center">
-  <strong>Senior RPA Developer | Python Developer | Automation Engineer | AI & Workflow Automation</strong>
+  <strong>Senior RPA Developer | Python Automation Engineer | AI Workflow Automation | API & Data Integrations</strong>
 </p>
 
 <p align="center">
-  I build automation-first solutions that reduce manual work, connect systems, improve data quality, and help businesses scale operations with Python, RPA, APIs, SQL, n8n, and AI-powered workflows.
+  I help companies reduce manual work, connect systems, improve data quality, and scale operations through automation-first solutions using Python, RPA, APIs, SQL, n8n, Power Automate, and AI-powered workflows.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-kleimpaul/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Bueno-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rafa.parente@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/rafaelkleimpaul">
-    <img src="https://img.shields.io/badge/GitHub-rafaelkleimpaul-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=rafaelkleimpaul&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I'm a Brazilian technology professional based in São Paulo, with **6+ years of experience** designing, developing, and supporting automation solutions across industries such as insurance, banking, healthcare, audit, finance, logistics, and back-office operations.
+I build automation and integration solutions that help business teams move faster, reduce repetitive work, and make better use of their data.
 
-My background combines **RPA development, Python, business analysis, data processing, API integrations, SQL databases, workflow orchestration, and AI-enabled automation**.
+With **6+ years of experience** across insurance, banking, healthcare, audit, finance, logistics, and back-office operations, I have worked across the full automation lifecycle: from process discovery and requirements analysis to development, deployment, support, and continuous improvement.
 
-I enjoy building practical solutions that solve real operational problems, especially when they involve:
+My work usually involves:
 
-- Automating repetitive and high-volume business processes
-- Connecting APIs, databases, CRMs, ERPs, and internal platforms
-- Building Python scripts for data processing and system integrations
-- Designing intelligent workflows with tools like n8n, Power Automate, and Automation Anywhere
-- Applying AI and machine learning models to improve automation accuracy and decision-making
+- Designing and developing automation-first workflows
+- Building Python scripts for data processing, reporting, validation, and integrations
+- Connecting APIs, databases, ERPs, CRMs, and internal systems
+- Creating RPA solutions with Automation Anywhere and Power Automate
+- Building workflow automations with n8n
+- Improving process reliability through logging, exception handling, and monitoring
+- Applying AI and machine learning models to document analysis, classification, routing, and operational workflows
 - Translating business requirements into scalable technical solutions
 
-I use GitHub to share projects, experiments, and technical studies related to automation, Python, data, AI, and process optimization.
+---
+
+## 💼 Why Companies Hire Me
+
+I combine technical execution with business understanding.
+
+I do not only build bots or scripts. I help identify where automation creates real business value, design the solution, develop it, and support it in production.
+
+I can contribute to teams that need someone who can:
+
+- Understand business processes quickly
+- Communicate with technical and non-technical stakeholders
+- Build reliable automations from scratch
+- Improve existing automation environments
+- Integrate systems using APIs, SQL, files, queues, and workflow tools
+- Work independently in remote and high-ownership environments
+- Deliver practical solutions instead of overengineering
 
 ---
 
-## 🧠 What I Work With
-
-### Automation & RPA
-- Automation Anywhere v11 / A360
-- Power Automate Desktop & Cloud
-- n8n
-- Workflow orchestration
-- Bot development
-- Exception handling
-- Logging and monitoring
-- Production support
-
-### Programming & Data
-- Python
-- SQL
-- PostgreSQL
-- SQL Server
-- MySQL
-- JSON
-- APIs
-- Data processing
-- ETL-style workflows
-
-### AI & Intelligent Automation
-- OpenAI integrations
-- AI-assisted workflows
-- Machine learning-assisted automation
-- Document analysis automation
-- Intelligent routing and classification
-- Automation pipelines with AI services
-
-### Business & Systems
-- Requirements gathering
-- Process mapping
-- Business rule analysis
-- Technical documentation
-- System integration analysis
-- Stakeholder communication
-- SAP, Oracle EBS, TOTVS, Dataverse, ServiceNow
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Core Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github,vscode,html,css,js" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Automation%20Anywhere-FF6600?style=for-the-badge&logo=automationanywhere&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation%20Anywhere-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </p>
 
 ---
 
-## 💼 Professional Focus
+## ⚙️ Areas of Expertise
 
-I’m especially interested in international opportunities involving:
+### Automation Engineering
+RPA development, workflow orchestration, bot architecture, exception handling, logging, production support, and process optimization.
 
-- RPA Development
-- Python Automation
-- AI Automation
-- Workflow Automation
-- Growth Engineering
-- Data Operations
-- API Integrations
-- Business Process Automation
-- Intelligent Automation
-- Technical Business Analysis
+### Python Automation
+Scripts for data processing, file handling, API consumption, validation rules, reporting, reconciliation, and operational workflows.
 
----
+### API & Data Integrations
+REST APIs, JSON payloads, SQL databases, data mapping, field validation, system integration, and workflow automation.
 
-## 📌 Featured Project Ideas / Repository Areas
+### AI-Powered Workflows
+AI-assisted automation, OpenAI integrations, document classification, intelligent routing, machine learning-assisted processes, and n8n-based AI pipelines.
 
-Here are some of the types of projects I focus on and continue improving:
-
-### 🤖 RPA & Business Automation
-Automation projects focused on reducing manual work, improving process reliability, and creating scalable workflows for business operations.
-
-### 🐍 Python Automation Scripts
-Python-based solutions for file processing, API consumption, data validation, reports, integrations, and operational workflows.
-
-### 🔗 API & Data Integration
-Projects involving REST APIs, JSON payloads, SQL databases, CRM-like workflows, and data synchronization between systems.
-
-### 🧠 AI-Powered Workflows
-Experiments and practical projects using AI services to classify documents, extract information, support decision-making, and automate business tasks.
-
-### 📊 Data Processing & Analytics
-Data analysis, data cleaning, SQL queries, dashboards, reports, and automation pipelines for operational insights.
-
-### ⚙️ n8n Workflow Automation
-Low-code and code-based workflow automation projects connecting APIs, databases, AI services, notifications, and business tools.
+### Business Analysis
+Requirements gathering, process mapping, business rule analysis, functional documentation, stakeholder communication, and solution design.
 
 ---
 
-## 📂 Suggested Repository Structure
+## 🚀 Featured Project
 
-Some repositories you may find here or that I’m currently building:
+### 🌌 Time Dilation Analysis with Python  
+[View Repository](https://github.com/rafaelkleimpaul/TCC_Dilatacao_Temporal)
 
-```txt
-python-automation-lab
-├── file-processing
-├── api-integrations
-├── data-validation
-├── report-generation
-└── workflow-scripts
+A scientific computing project developed as part of my Computer Science final thesis, focused on modeling and visualizing gravitational time dilation scenarios using Python.
 
-rpa-automation-portfolio
-├── automation-anywhere
-├── power-automate
-├── exception-handling
-├── logging-patterns
-└── production-support
+The project explores different astronomical cases, including neutron stars, stellar black holes, supermassive black holes, near-event-horizon scenarios, and planetary-scale simulations.
 
-ai-workflow-automation
-├── openai-integrations
-├── document-classification
-├── intelligent-routing
-├── n8n-workflows
-└── automation-agents
+**Tech stack:** Python, Pandas, Matplotlib, Plotly, AstroPy, Jupyter Notebook, SQLite/CSV
 
-sql-data-automation
-├── queries
-├── stored-procedures
-├── data-cleaning
-├── reconciliation
-└── reporting
+**What this project demonstrates:**
+
+- Python programming applied to scientific computing
+- Data analysis and visualization
+- Mathematical modeling
+- Scenario-based simulations
+- Technical documentation
+- Ability to connect software development, physics, and data analysis
+
+---
+
+## 🎯 Roles I'm Interested In
+
+I am open to remote international opportunities such as:
+
+- Senior RPA Developer
+- Python Automation Engineer
+- Automation Engineer
+- AI Automation Developer
+- Workflow Automation Engineer
+- Technical Business Analyst
+- Growth Engineer
+- Data Operations / Automation Engineer
+- Integration Engineer
+
+---
+
+## 🌎 Open to Remote International Work
+
+I am based in São Paulo, Brazil, and open to working with global teams.
+
+I have advanced English reading and writing skills and I am continuously improving my spoken communication for international technical environments.
+
+I am especially interested in roles where I can combine:
+
+**Automation + Python + APIs + Data + AI + Business Process Improvement**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=rafaelkleimpaul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkleimpaul&layout=compact&theme=tokyonight&langs_count=8"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelkleimpaul&theme=tokyonight" 
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I am always open to discussing automation, Python, AI workflows, system integrations, and international remote opportunities.
+
+<p align="left">
+  <a href="mailto:rafa.parente@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-rafa.parente%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-kleimpaul/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building reliable automation solutions with Python, RPA, APIs, data, and AI.</em>
+</p>
