@@ -1,104 +1,198 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+</p>
 
-<h1>Hi, I'm Rafael Bueno 👋</h1>
 
-**Senior Intelligent Automation Engineer · Python · RPA · Integrations · Data & AI**
+<p align="center">
+Building reliable backend systems with clean architecture and scalable solutions.
+</p>
 
-I turn repetitive work and disconnected systems into reliable workflows, using Python, RPA, APIs, SQL, n8n, Power Automate, and AI.
+<h1 align="center">Hello, I'm Rafael Kleimpaul</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-7C59CF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-kleimpaul/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-315D77?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafa.parente@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181D29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelkleimpaul?tab=repositories)
-![Profile views](https://komarev.com/ghpvc/?username=rafaelkleimpaul&style=for-the-badge&color=7C59CF)
+<p align="center">
+  <strong>Software Engineer | RPA | Automation | Data & AI | AI Agents Dev</strong>
+</p>
 
-</div>
+<p align="center">
+  I help companies reduce manual work, connect systems, improve data quality, and scale operations through automation-first solutions using Python, RPA, APIs, SQL, n8n, Power Automate, and AI-powered workflows.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafael-kleimpaul/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rafa.parente@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rafaelkleimpaul">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rafaelkleimpaul&style=for-the-badge&color=blue" alt="Profile views"/>
+</p>
 
 ---
 
-### 01 / WHO I AM
+## 🚀 What I Do
 
 I build automation and integration solutions that help business teams move faster, reduce repetitive work, and make better use of their data.
 
-With **6+ years of experience** across insurance, banking, healthcare, audit, finance, logistics, and back-office operations, I have worked across the full automation lifecycle: process discovery, requirements analysis, development, deployment, support, and continuous improvement.
+With **6+ years of experience** across insurance, banking, healthcare, audit, finance, logistics, and back-office operations, I have worked across the full automation lifecycle: from process discovery and requirements analysis to development, deployment, support, and continuous improvement.
 
-I am based in São Paulo, Brazil, and currently pursuing an MBA in Data Science & AI. I am building on my automation background to solve more complex problems with data and intelligent systems.
+My work usually involves:
 
-### 02 / WHAT I BUILD
-
-| ⚙️ Automation & operations | 🔗 Data & integration | ✳️ AI & delivery |
-| --- | --- | --- |
-| RPA workflows, bot architecture, exception handling, logging, monitoring, and production support | Python scripts for data processing, reporting, validation, and reconciliation; REST APIs, SQL, databases, ERPs, CRMs, files, and queues | AI-assisted workflows, OpenAI integrations, document analysis, classification, intelligent routing, and n8n pipelines |
-
-I translate business requirements into technical solutions, communicate with technical and non-technical stakeholders, and work independently in remote, high-ownership environments. I can build reliable automations from scratch, improve existing environments, and deliver practical solutions without overengineering.
-
-> **Beyond code:** I look for the actual bottleneck, design around the business process, and stay with a solution through production support and improvement.
-
----
-
-### 03 / TECH STACK
-
-<div align="center">
-
-<img alt="Core tools: Python, PostgreSQL, MySQL, Docker, Git, GitHub, VS Code, HTML, CSS and JavaScript" src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github,vscode,html,css,js&perline=10&theme=dark" />
-
-<br><br>
-
-**Automation & integrations**
-
-![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-5D358E?style=flat-square)
-![Power Automate](https://img.shields.io/badge/Power_Automate-5D358E?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-5D358E?style=flat-square&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-5D358E?style=flat-square&logo=openai&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-5D358E?style=flat-square&logo=sap&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-5D358E?style=flat-square)
-
-<br>
-
-**Working methods**
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-1B2638?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-1B2638?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-1B2638?style=flat-square)
-![RPA](https://img.shields.io/badge/RPA-315D77?style=flat-square)
-![Workflow orchestration](https://img.shields.io/badge/Workflow_Orchestration-315D77?style=flat-square)
-
-</div>
+- Designing and developing automation-first workflows
+- Building Python scripts for data processing, reporting, validation, and integrations
+- Connecting APIs, databases, ERPs, CRMs, and internal systems
+- Creating RPA solutions with Automation Anywhere and Power Automate
+- Building workflow automations with n8n
+- Improving process reliability through logging, exception handling, and monitoring
+- Applying AI and machine learning models to document analysis, classification, routing, and operational workflows
+- Translating business requirements into scalable technical solutions
 
 ---
 
-### 04 / SELECTED PROJECTS
+## 💼 Why Companies Hire Me
 
-| Scientific computing | Data science & AI | Automation projects |
-| --- | --- | --- |
-| **[Time Dilation Analysis with Python](https://github.com/rafaelkleimpaul/TCC_Dilatacao_Temporal)**<br><br>Computer Science thesis modeling and visualizing gravitational time dilation: neutron stars, stellar and supermassive black holes, near-event-horizon scenarios, and planetary cases.<br><br>Python · Pandas · Matplotlib · Plotly · AstroPy · Jupyter · SQLite/CSV | **[Data Science & AI Projects](https://github.com/rafaelkleimpaul/data-science-AI-projects)**<br><br>Personal data science and AI project collection. | **[Automations](https://github.com/rafaelkleimpaul/Automations)**<br><br>Personal automation project collection. |
+I combine technical execution with business understanding.
 
-The time dilation project demonstrates Python for scientific computing, data analysis and visualization, mathematical modeling, scenario-based simulation, technical documentation, and the connection between software development, physics, and data analysis.
+I do not only build bots or scripts. I help identify where automation creates real business value, design the solution, develop it, and support it in production.
 
----
+I can contribute to teams that need someone who can:
 
-### 05 / GITHUB ACTIVITY
-
-<div align="center">
-
-<img height="165" alt="Rafael's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=rafaelkleimpaul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="165" alt="Languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkleimpaul&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-
-<img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelkleimpaul&theme=tokyonight&hide_border=true" />
-
-<img alt="GitHub contribution timeline" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelkleimpaul&theme=tokyonight" />
-
-</div>
+- Understand business processes quickly
+- Communicate with technical and non-technical stakeholders
+- Build reliable automations from scratch
+- Improve existing automation environments
+- Integrate systems using APIs, SQL, files, queues, and workflow tools
+- Work independently in remote and high-ownership environments
+- Deliver practical solutions instead of overengineering
 
 ---
 
-### 06 / OPPORTUNITIES & CONTACT
+## 🛠️ Core Tech Stack
 
-Based in **São Paulo, Brazil**, and open to **remote international work**. I have advanced English reading and writing skills and continue improving my spoken communication for international technical environments.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github,vscode,html,css,js" />
+</p>
 
-I am interested in **Senior RPA Developer, Python Automation Engineer, Automation Engineer, AI Automation Developer, Workflow Automation Engineer, Technical Business Analyst, Growth Engineer, Data Operations / Automation Engineer, and Integration Engineer** roles.
+<p align="left">
+  <img src="https://img.shields.io/badge/Automation%20Anywhere-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</p>
 
-I am especially interested in work combining **automation + Python + APIs + data + AI + business process improvement**. I am always open to discussing automation, Python, AI workflows, system integrations, and international remote opportunities.
+---
 
-**[Email me](mailto:rafa.parente@hotmail.com)** · **[Connect on LinkedIn](https://www.linkedin.com/in/rafael-kleimpaul/)**
+## ⚙️ Areas of Expertise
 
-<div align="center"><sub>Building reliable automation solutions with Python, RPA, APIs, data, and AI.</sub></div>
+### Automation Engineering
+RPA development, workflow orchestration, bot architecture, exception handling, logging, production support, and process optimization.
+
+### Python Automation
+Scripts for data processing, file handling, API consumption, validation rules, reporting, reconciliation, and operational workflows.
+
+### API & Data Integrations
+REST APIs, JSON payloads, SQL databases, data mapping, field validation, system integration, and workflow automation.
+
+### AI-Powered Workflows
+AI-assisted automation, OpenAI integrations, document classification, intelligent routing, machine learning-assisted processes, and n8n-based AI pipelines.
+
+### Business Analysis
+Requirements gathering, process mapping, business rule analysis, functional documentation, stakeholder communication, and solution design.
+
+---
+
+## 🚀 Featured Project
+
+### 🌌 Time Dilation Analysis with Python  
+[View Repository](https://github.com/rafaelkleimpaul/TCC_Dilatacao_Temporal)
+
+A scientific computing project developed as part of my Computer Science final thesis, focused on modeling and visualizing gravitational time dilation scenarios using Python.
+
+The project explores different astronomical cases, including neutron stars, stellar black holes, supermassive black holes, near-event-horizon scenarios, and planetary-scale simulations.
+
+**Tech stack:** Python, Pandas, Matplotlib, Plotly, AstroPy, Jupyter Notebook, SQLite/CSV
+
+**What this project demonstrates:**
+
+- Python programming applied to scientific computing
+- Data analysis and visualization
+- Mathematical modeling
+- Scenario-based simulations
+- Technical documentation
+- Ability to connect software development, physics, and data analysis
+
+---
+
+## 🎯 Roles I'm Interested In
+
+I am open to remote international opportunities such as:
+
+- Senior RPA Developer
+- Python Automation Engineer
+- Automation Engineer
+- AI Automation Developer
+- Workflow Automation Engineer
+- Technical Business Analyst
+- Growth Engineer
+- Data Operations / Automation Engineer
+- Integration Engineer
+
+---
+
+## 🌎 Open to Remote International Work
+
+I am based in São Paulo, Brazil, and open to working with global teams.
+
+I have advanced English reading and writing skills and I am continuously improving my spoken communication for international technical environments.
+
+I am especially interested in roles where I can combine:
+
+**Automation + Python + APIs + Data + AI + Business Process Improvement**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=rafaelkleimpaul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkleimpaul&layout=compact&theme=tokyonight&langs_count=8"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelkleimpaul&theme=tokyonight" 
+    alt="GitHub Streak"
+  />
+  <img alt="GitHub contribution timeline" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelkleimpaul&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I am always open to discussing automation, Python, AI workflows, system integrations, and international remote opportunities.
+
+<p align="left">
+  <a href="mailto:rafa.parente@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-rafa.parente%40hotmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-kleimpaul/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Building reliable automation solutions with Python, RPA, APIs, data, and AI.</em>
+</p>
