@@ -4,7 +4,7 @@
 
 
 <p align="center">
-Building reliable backend systems with clean architecture and scalable solutions.
+Matthew 11:28: "Come to me, all you who are troubled and weighted down with care, and I will give you rest."
 </p>
 
 <h1 align="center">Hello, I'm Rafael Kleimpaul</h1>
