@@ -164,6 +164,7 @@ I am especially interested in roles where I can combine:
     src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelkleimpaul&theme=tokyonight" 
     alt="GitHub Streak"
   />
+  <img alt="GitHub contribution timeline" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelkleimpaul&theme=tokyonight" />
 </p>
 
 ---
