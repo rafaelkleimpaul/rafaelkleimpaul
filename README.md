@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
+  <img src="./assets/ascaw.png" alt="Banner" width="100%">
 </p>
 
 
