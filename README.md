@@ -196,3 +196,5 @@ I am always open to discussing automation, Python, AI workflows, system integrat
 <p align="center">
   <em>Building reliable automation solutions with Python, RPA, APIs, data, and AI.</em>
 </p>
+
+<!-- last updated: 2026-11-15 -->
